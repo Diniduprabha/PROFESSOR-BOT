@@ -225,11 +225,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 ☘️ Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>
 📆 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>
 🌟 Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10"""
-📕 Lᴀɴɢᴜᴀɢᴇꜱ ➜ <code>{languages}</code></a>
-⏰ Rᴜɴᴛɪᴍᴇ ➜ href={url}{runtime} Minutes</a>
-🌼 Gᴇɴʀᴇꜱ ➜ {genres}</a>
-
-@Dinidu Silva | @FilmsWithSinhalaSub</a>
+🌼 Gᴇɴʀᴇꜱ ➜ {genres}
 
  
 
