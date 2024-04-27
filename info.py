@@ -17,7 +17,7 @@ BOT_TOKEN = environ['7052582867:AAFpG1TEuTZAOP-jnZ09ubuUc0HJEyegVJ8']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
-PICS = (environ.get('PICS' ,'https://telegra.ph/file/c2ecc3530b575d00e2090.jpg')).split()
+PICS = (environ.get('PICS' ,'https://telegra.ph/file/f0bf3bc788354b59a0cb4.jpg')).split()
 UPTIME = time.time()
 
 # Admins, Channels & Users
