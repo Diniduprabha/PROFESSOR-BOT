@@ -8,7 +8,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/DiniduSilva>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/DiniduSilva>ᴍʀ.Pʀɪᴍᴇ Sɪʟᴠᴀ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
@@ -214,7 +214,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
    
     FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
    
-    WELCOM_TEXT = """හලෝ {user} Wellcome To Group 💞
+    WELCOM_TEXT = """හලෝ {user} Wellcome To Films Piszo Group 💞
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
@@ -222,12 +222,14 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
   
     IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
     
-@DiniduSilva | @FilmsWithSinhalaSub
-
 ☘️ Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>
-🌼 Gᴇɴʀᴇꜱ ➜ {genres}
 📆 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>
 🌟 Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10"""
+📕 Lᴀɴɢᴜᴀɢᴇꜱ ➜ <code>{languages}</code>
+⏰ Rᴜɴᴛɪᴍᴇ ➜ {runtime} Minutes
+🌼 Gᴇɴʀᴇꜱ ➜ {genres}
+
+@Dinidu Silva | @FilmsWithSinhalaSub
 
  
 
