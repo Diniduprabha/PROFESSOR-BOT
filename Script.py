@@ -223,9 +223,10 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
     IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
     
 ☘️ Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>
+🌼 Gᴇɴʀᴇꜱ ➜ {genres}
 📆 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>
 🌟 Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10"""
-🌼 Gᴇɴʀᴇꜱ ➜ {genres}
+
 
  
 
